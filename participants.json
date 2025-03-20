@@ -30,7 +30,8 @@
 "Label": ""
 }
 }
-}
+},
+"Description": "There should have been a description here, but there wasn't. :("
 },
 "age": {
 "Description": "Age of the subject at time of scan with 3 digits",
